@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/bss/rails-travis-example.svg?branch=master)](https://travis-ci.org/bss/rails-travis-example)
 
 # Rails Travis Example
 
